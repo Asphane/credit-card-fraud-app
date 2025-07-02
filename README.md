@@ -26,18 +26,17 @@ An interactive machine learning web app to detect fraudulent credit card transac
 
 ## 📁 Project Structure
 
+```
 credit-card-fraud-app/
-├── streamlit_app.py # Streamlit interface code
-├── rf_model.pkl # Trained Random Forest model
-├── svm_model.pkl # Trained SVM model
-├── lr_model.pkl # Trained Logistic Regression model
-├── requirements.txt # Project dependencies
-├── .gitignore # Exclude dataset file
-├── README.md # Project documentation
+├── streamlit_app.py       # Streamlit interface code
+├── rf_model.pkl           # Trained Random Forest model
+├── svm_model.pkl          # Trained SVM model
+├── lr_model.pkl           # Trained Logistic Regression model
+├── requirements.txt       # Project dependencies
+├── .gitignore             # Exclude dataset file
+├── README.md              # Project documentation
+```
 
-yaml
-Copy
-Edit
 
 ---
 
